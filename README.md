@@ -8,7 +8,7 @@ Hi, I’m @020darling, I'm a secondary student and studying the web development.
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
-- <a href="https://jp.lostu.me/"><code><img height="20" width="50" src="https://raw.githubusercontent.com/020darling/CDN/main/img/Mahiro_a_logo_with_anime_girl_ac348197-dc63-4ba3-964b-13d717e4e92b.png"></code></a>：You can find out the things you want!
+- <a href="https://jp.lostu.me/"><code><img height="50" width="50" src="https://raw.githubusercontent.com/020darling/CDN/main/img/Mahiro_a_logo_with_anime_girl_ac348197-dc63-4ba3-964b-13d717e4e92b.png"></code></a>：You can find out the things you want!
 
 ### Github Stats
 
