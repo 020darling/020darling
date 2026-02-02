@@ -4,7 +4,7 @@
 
 Hi, I’m @020darling, I'm a **UNIVERSITY** student and studying the ~~web~~ ㄇㄛ development.
 
-適可而止，時刻自律 戒賭熱綫:1834 633
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E9%81%A9%E5%8F%AF%E8%80%8C%E6%AD%A2%EF%BC%8C%E6%99%82%E5%88%BB%E8%87%AA%E5%BE%8B+%E6%88%92%E8%B3%AD%E7%86%B1%E7%B6%AB%3A1834+633)](https://git.io/typing-svg)
 
 ### Working In
 ![JAVASCRIPT](https://camo.githubusercontent.com/a009c0234cccc0fb27ffe68d976e184b0dc8277dce28647ba855331e5507af51/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d6535636430633f7374796c653d666c61742d737175617265266c6f676f3d4a617661536372697074266c6162656c436f6c6f723d663764663165266c6f676f436f6c6f723d303030)
