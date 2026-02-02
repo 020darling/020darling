@@ -6,10 +6,27 @@ Hi, I’m @020darling, I'm a **UNIVERSITY** student and studying the ~~web~~ ㄇ
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&width=435&lines=%E9%81%A9%E5%8F%AF%E8%80%8C%E6%AD%A2%EF%BC%8C%E6%99%82%E5%88%BB%E8%87%AA%E5%BE%8B+%E6%88%92%E8%B3%AD%E7%86%B1%E7%B6%AB%3A1834+633)](https://git.io/typing-svg)
 
-### Working In
-![JAVASCRIPT](https://camo.githubusercontent.com/a009c0234cccc0fb27ffe68d976e184b0dc8277dce28647ba855331e5507af51/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d6535636430633f7374796c653d666c61742d737175617265266c6f676f3d4a617661536372697074266c6162656c436f6c6f723d663764663165266c6f676f436f6c6f723d303030)
-![win11](https://camo.githubusercontent.com/20910f53a4bdafa94460882b9ad1611fd4b7eb7b03549479fa2c1d11aaa97923/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f7773253230313125323050726f2d3030616465663f7374796c653d666c61742d737175617265266c6f676f3d77696e646f7773266c6f676f436f6c6f723d666666666666)
+```
+{
+              _
+             | |
+             | |===( )   //////
+             |_|   |||  | o o|
+                    ||| ( c  )                  ____
+                     ||| \= /                  ||   \_
+                      ||||||                   ||     |
+                      ||||||                ...||__/|-"
+                      ||||||             __|________|__
+                        |||             |______________|
+                        |||             || ||      || ||
+                        |||             || ||      || ||
+------------------------|||-------------||-||------||-||-------
+                        |__>            || ||      || ||
 
+
+     hit any key to continue
+}
+```
 ### Github Stats
 
 ![Top Langs](https://github-readme-stats-xncp.vercel.app/api/top-langs/?username=020darling&langs_count=6)
