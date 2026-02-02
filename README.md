@@ -2,7 +2,7 @@
 
 ## Welcome To My Github Page!
 
-Hi, I’m @020darling, I'm a secondary student and studying the web development.
+Hi, I’m @020darling, I'm a **UNIVERSITY** student and studying the ~~web~~ ㄇㄛ development.
 
 適可而止，時刻自律 戒賭熱綫:1834 633
 
