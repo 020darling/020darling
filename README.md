@@ -29,5 +29,6 @@ Hi, I’m @020darling, I'm a **UNIVERSITY** student and studying the ~~web~~ ㄇ
 ```
 ### Github Stats
 
-![Top Langs](https://github-readme-stats-xncp.vercel.app/api/top-langs/?username=020darling&langs_count=6)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=020darling&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=020darling&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=020darling&theme=default)
